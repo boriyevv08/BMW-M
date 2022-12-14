@@ -1,0 +1,42 @@
+.card{
+   width: 340px;
+   /* height: 180px; */
+}
+
+.img{
+   width: 280px;
+   height: 230px;
+}
+.title{
+   margin-top: 50px ;
+   margin-bottom: 50px ;
+   text-align: center;
+   color: brown;
+   background-color: blanchedalmond;
+}
+
+.inp1{
+   display: inline-block;
+   margin-bottom: 50px;
+   margin-left: 500px;
+   border-color: brown;
+   color: brown;
+
+}
+.inp2{
+   display: inline-block;
+   margin-bottom: 50px;
+   margin-left: 200px;
+   border-color: rgb(9, 6, 77);
+   color: rgb(49, 38, 196);
+
+}
+
+.inp3{
+   display: inline-block;
+   margin-bottom: 50px;
+   margin-left: 200px;
+   border-color: rgb(3, 59, 33);
+   color: rgb(34, 167, 116);
+
+}
